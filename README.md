@@ -4,10 +4,10 @@
 **wendelcutrim/wendelcutrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
-
-- 🔭 I’m currently working on ...-->
-- 🌱 I’m currently learning Web Development Full stack Node.js at Digital House
+- 🔭 I’m currently Assistant Teacher Full Stack Node JS at Digital House
+- 🌱 I’m currently Dev Web Full stack Node.js
 - ✈ Airplane Pilot
 - 📚 Bachelor in Aeronautical Sciences
 - 📫 How to reach me: wendelcutrim@hotmail.com
