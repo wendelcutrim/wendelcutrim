@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📚 Bachelor in Aeronautical Sciences
 - 📫 How to reach me: wendelcutrim@hotmail.com
  <div style="display: flex;">
-  <details>
+  <details open>
     <summary><strong>GitHub Stats<strong></summary>
     <a href="https://github.com/wendelcutrim">
     <img height="163em" src="https://github-readme-stats.vercel.app/api?username=wendelcutrim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
