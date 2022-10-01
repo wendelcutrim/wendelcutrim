@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently Assistant Teacher Full Stack Node JS at Digital House
+- 🔭 I’m currently Teacher Full Stack Node JS at Digital House
 - 🌱 I’m currently Dev Web Full stack Node.js
 - ✈ Airplane Pilot
 - 📚 Bachelor in Aeronautical Sciences
