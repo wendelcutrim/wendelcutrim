@@ -6,8 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently Teacher Full Stack Node JS at Digital House
-- 🌱 I’m currently Dev Web Full stack Node.js
+- 🔭 I’m currently IT engineering analyst Jr on Itaú Bank and Teacher on Full Stack Node course JS at Digital House
 - ✈ Airplane Pilot
 - 📚 Bachelor in Aeronautical Sciences
 - 📫 How to reach me: wendelcutrim@hotmail.com
