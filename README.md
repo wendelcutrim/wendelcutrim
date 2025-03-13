@@ -22,21 +22,21 @@ Here are some ideas to get you started:
 
 <div style="display: inline_block">
   <br>
-  <img align="center" alt="Angular" height="30" width="40" title="Angular" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" title="Angular">
-  <img align="center" alt="React JS" height="30" width="40" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React">
-  <img align="center" alt="Vue JS" height="30" width="40" title="Vue JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" title="Vue">
-  <img align="center" alt="JQuery" height="30" width="40" title="JQuery" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" title="Jquery">
-  <img align="center" alt="HTML" height="30" width="40" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML">
-  <img align="center" alt="CSS" height="30" width="40" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS">
-  <img align="center" alt="SASS" height="30" width="40" title="SASS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" title="SCSS">
-  <img align="center" alt="NodeJS" height="30" width="40" title="Node JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node JS">
-  <img align="center" alt="Javascript" height="30" width="40" title="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="Javascript">
-  <img align="center" alt="Javascript" height="30" width="40" title="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg" title="Typescript">
-  <img align="center" alt="Java" height="30" width="40" title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="Java">
-  <img align="center" alt="Javascript" height="30" width="40" title="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kotlin/kotlin-original.svg" title="Kotlin">
-  <img align="center" alt="Javascript" height="30" width="40" title="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" title="Python">
-  <img align="center" alt="C" height="30" width="40" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="c">
-  <img align="center" alt="Javascript" height="30" width="40" title="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="aws">
+  <img align="center" alt="Angular" height="30" width="40" title="Angular" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="React JS" height="30" width="40" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Vue JS" height="30" width="40" title="Vue JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="JQuery" height="30" width="40" title="JQuery" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="SCSS" height="30" width="40" title="SCSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="NodeJS" height="30" width="40" title="Node JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Javascript" height="30" width="40" title="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Typescript" height="30" width="40" title="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Java" height="30" width="40" title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Kotlin" height="30" width="40" title="Kotlin" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Python" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg">
+  <img align="center" alt="C" height="30" width="40" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="AWS" height="30" width="40" title="AWS" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 
   <!--<img align="center" alt="Wendel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
   <!--<img align="center" alt="Wendel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
